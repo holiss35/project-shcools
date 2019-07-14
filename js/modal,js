@@ -1,0 +1,11 @@
+var select=document.querySelector(".logo-center .select");
+var close=document.querySelector("#close");
+var modal=document.querySelector(".modal");
+var flag=true;
+select.addEventListener("click",function(){
+modal.style.display="block";
+},false);
+close.addEventListener("click",function(){
+modal.style.display="none"
+},false)
+
