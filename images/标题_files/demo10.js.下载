@@ -1,6 +1,0 @@
-var app=angular.module("myapp",[]);
-app.controller(function($scope){
-//ng-if视图指令；ng-switch：更符咋的条件控制；配合属性ng-switch-when,ng-sitch-default;
-
-
-});
